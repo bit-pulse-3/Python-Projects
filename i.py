@@ -10,4 +10,3 @@ def get_number():
 if __name__ == "__main__":
     print(get_number())
     print(get_number())
-    print(get_number())
